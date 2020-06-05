@@ -1,6 +1,6 @@
 # FIFA 2019
 ## Installations:
-The project has been done in the jupter enviroment with python 3.6. All the package requires are mentioned in requirement.txt
+The project has been done in the jupyter enviroment with python 3.6. All the package required are mentioned in requirement.txt
 
 
 ## Motivation:
