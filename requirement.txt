@@ -1,0 +1,6 @@
+numpy
+pandas
+seaborn
+plotly==2.7.0
+chart-studio
+cufflinks
